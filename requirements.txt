@@ -10,6 +10,7 @@ inflect
 numpy
 openpyxl==3.1.2
 pandas
+Pyaudio
 requests==2.31.0
 requests-oauthlib==1.3.1
 spacy
